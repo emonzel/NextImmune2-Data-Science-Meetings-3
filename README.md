@@ -14,5 +14,8 @@ This repository contains the completed tasks for the NextImmune2 - Data Science 
 - Inserted graphics from previous tasks.
 - Exported final figure as PDF and PNG.
 
+## Session presentations
+Informations about different data science tools
+
 ## Contacts
 - For any questions, please contact: [elena.monzel@lih.lu]
