@@ -1,6 +1,6 @@
 # NextImmune 2 - Data Science Meetings Assessment
 
-This repository contains the completed tasks for the NextImmune2 - Data Science Meetings 3 (Common Data Science Tools) assessment.
+This repository contains the session presentations and completed tasks under Assingment folder for the NextImmune2 - Data Science Meetings 3 (Common Data Science Tools) assessment.
 
 ## Python
 - Completed Python notebook with data analysis.
